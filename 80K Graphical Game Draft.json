@@ -958,6 +958,868 @@
         "name": "assets\\gui\\Thumbstick Boundary_Dark160.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Idle Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Idle Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/f4071833685aa4a98040ef9bd3d4eda3e6100591df5f7350db68b8fdc4975ad5_Kid 1_Idle Down_1.png",
+          "name": "Kid 1_Idle Down_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Idle Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Idle Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/f4071833685aa4a98040ef9bd3d4eda3e6100591df5f7350db68b8fdc4975ad5_Kid 1_Idle Down_2.png",
+          "name": "Kid 1_Idle Down_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Idle Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Idle Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/9b4260eb58fb4f956da4960d7ba42249097a456a2ceef6b089843d723be057a0_Kid 1_Idle Down_3.png",
+          "name": "Kid 1_Idle Down_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Idle Down_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Idle Down_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/9b4260eb58fb4f956da4960d7ba42249097a456a2ceef6b089843d723be057a0_Kid 1_Idle Down_4.png",
+          "name": "Kid 1_Idle Down_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Idle Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Idle Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/7e46a7cd222700d73ed7a002510b5984dbfb1724ea12972168545927b0467351_Kid 1_Idle Left_1.png",
+          "name": "Kid 1_Idle Left_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Idle Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Idle Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/7e46a7cd222700d73ed7a002510b5984dbfb1724ea12972168545927b0467351_Kid 1_Idle Left_2.png",
+          "name": "Kid 1_Idle Left_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Idle Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Idle Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/cd91c22c8d30fc197aa46f624eb5d6b22901bf83b252850e15491a3c0dcd8238_Kid 1_Idle Left_3.png",
+          "name": "Kid 1_Idle Left_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Idle Left_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Idle Left_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/cd91c22c8d30fc197aa46f624eb5d6b22901bf83b252850e15491a3c0dcd8238_Kid 1_Idle Left_4.png",
+          "name": "Kid 1_Idle Left_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Idle Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Idle Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/0b51a33a5240fb9fed809fe44c9953393cf7261824b422cf9bfd9399b1a41102_Kid 1_Idle Right_1.png",
+          "name": "Kid 1_Idle Right_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Idle Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Idle Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/0b51a33a5240fb9fed809fe44c9953393cf7261824b422cf9bfd9399b1a41102_Kid 1_Idle Right_2.png",
+          "name": "Kid 1_Idle Right_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Idle Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Idle Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/a10d8497880a5af3db4929aba58075f7729644d6da00407f38216d125f49b4ed_Kid 1_Idle Right_3.png",
+          "name": "Kid 1_Idle Right_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Idle Right_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Idle Right_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/a10d8497880a5af3db4929aba58075f7729644d6da00407f38216d125f49b4ed_Kid 1_Idle Right_4.png",
+          "name": "Kid 1_Idle Right_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Idle Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Idle Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/af86b4679fedaacf4772ca8f38464e6af4545b0cb4ce5a516f459bc67b7e180a_Kid 1_Idle Up_1.png",
+          "name": "Kid 1_Idle Up_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Idle Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Idle Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/af86b4679fedaacf4772ca8f38464e6af4545b0cb4ce5a516f459bc67b7e180a_Kid 1_Idle Up_2.png",
+          "name": "Kid 1_Idle Up_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Idle Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Idle Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/cc95c0792350d344060f669bad6cb6d440cf0a8de596c67aa837358b28af5eef_Kid 1_Idle Up_3.png",
+          "name": "Kid 1_Idle Up_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Idle Up_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Idle Up_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/cc95c0792350d344060f669bad6cb6d440cf0a8de596c67aa837358b28af5eef_Kid 1_Idle Up_4.png",
+          "name": "Kid 1_Idle Up_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Walk Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Walk Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/b6dd13bdefbf3bf7c4e6b80db90df2cbb17cdd370a959ec91b31f7bb07ef6b2b_Kid 1_Walk Down_1.png",
+          "name": "Kid 1_Walk Down_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Walk Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Walk Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/5e66ffac6cb3e1757d6c27c307b67ca9f3dd3f6a8d124b940dc243c37763f8a3_Kid 1_Walk Down_2.png",
+          "name": "Kid 1_Walk Down_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Walk Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Walk Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/84701da4339f4f2aade3e47ee4851e2e621e362c38c402685c04912bbc7f363e_Kid 1_Walk Down_3.png",
+          "name": "Kid 1_Walk Down_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Walk Down_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Walk Down_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/5e66ffac6cb3e1757d6c27c307b67ca9f3dd3f6a8d124b940dc243c37763f8a3_Kid 1_Walk Down_4.png",
+          "name": "Kid 1_Walk Down_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Walk Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Walk Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/89f2188d096d52f92be8d5e3f64a72f9b3543382c794960223e15abbd1223f89_Kid 1_Walk Left_1.png",
+          "name": "Kid 1_Walk Left_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Walk Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Walk Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/ab82aa1572a730363412fd29dcc564d58459169be6f60c009b3e37428435d628_Kid 1_Walk Left_2.png",
+          "name": "Kid 1_Walk Left_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Walk Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Walk Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/941346f85adb27a8be06545b7da025c2add24ad65b8ea7b44828b602611ab11c_Kid 1_Walk Left_3.png",
+          "name": "Kid 1_Walk Left_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Walk Left_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Walk Left_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/ab82aa1572a730363412fd29dcc564d58459169be6f60c009b3e37428435d628_Kid 1_Walk Left_4.png",
+          "name": "Kid 1_Walk Left_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Walk Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Walk Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/80eeb85763f624c4cbf5ea41f8d9fab2f7db0fc133cad3808fa5d4823aa1096e_Kid 1_Walk Right_1.png",
+          "name": "Kid 1_Walk Right_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Walk Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Walk Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/51f40a89e65ff2360fcb4143c03522cc374889d4598cd8bf1c42d12f169b8682_Kid 1_Walk Right_2.png",
+          "name": "Kid 1_Walk Right_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Walk Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Walk Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/6633ab36748b55f7c2cbb79f9a60e49c585046edb46fc4ca7155e0bc5d6668ed_Kid 1_Walk Right_3.png",
+          "name": "Kid 1_Walk Right_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Walk Right_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Walk Right_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/51f40a89e65ff2360fcb4143c03522cc374889d4598cd8bf1c42d12f169b8682_Kid 1_Walk Right_4.png",
+          "name": "Kid 1_Walk Right_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Walk Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Walk Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/0439f940742693ab3deead6cfe9997d7fbe974c4959a853fec4a303a1daa6e17_Kid 1_Walk Up_1.png",
+          "name": "Kid 1_Walk Up_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Walk Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Walk Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/d313ab6af8fd53b8ffa9f63b9efeba28722935db216e2d3fe146e39b7be14e12_Kid 1_Walk Up_2.png",
+          "name": "Kid 1_Walk Up_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Walk Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Walk Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/bfa9414f34547f76c0e6c5b5bd63daf1e38c9dd8b920e45718b15827d9d4d368_Kid 1_Walk Up_3.png",
+          "name": "Kid 1_Walk Up_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Walk Up_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 1_Walk Up_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/d313ab6af8fd53b8ffa9f63b9efeba28722935db216e2d3fe146e39b7be14e12_Kid 1_Walk Up_4.png",
+          "name": "Kid 1_Walk Up_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Kid_1_Idle_Down_1_127x191.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid_1_Idle_Down_1_127x191.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Idle Down_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "f4071833685aa4a98040ef9bd3d4eda3e6100591df5f7350db68b8fdc4975ad5_Kid 1_Idle Down_1.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/f4071833685aa4a98040ef9bd3d4eda3e6100591df5f7350db68b8fdc4975ad5_Kid 1_Idle Down_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Idle Down_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "f4071833685aa4a98040ef9bd3d4eda3e6100591df5f7350db68b8fdc4975ad5_Kid 1_Idle Down_2.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/f4071833685aa4a98040ef9bd3d4eda3e6100591df5f7350db68b8fdc4975ad5_Kid 1_Idle Down_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 1_Idle Down_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9b4260eb58fb4f956da4960d7ba42249097a456a2ceef6b089843d723be057a0_Kid 1_Idle Down_3.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/9b4260eb58fb4f956da4960d7ba42249097a456a2ceef6b089843d723be057a0_Kid 1_Idle Down_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "Mushroom Theme.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Mushroom Theme.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tiled_Grass and Tree Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Grass and Tree Background.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tiled_Grass and Tree Background2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Grass and Tree Background2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "jump_01.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "jump_01.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big green tree 1.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Big green tree 1.png\",\"extension\":\".png\"}",
+        "name": "Big green tree 1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Back Turned.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Back Turned.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/fc8314b755c7cf09586bf0e5dbac49d4c7814226b3fa109771c821f056f35df9_Twiggy_Back Turned.png",
+          "name": "Twiggy_Back Turned.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Facing Viewer.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Facing Viewer.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/a37085e651653b3586e4263451a400c3bf732d8bf8a2f5a3298f8621d3ebfa63_Twiggy_Facing Viewer.png",
+          "name": "Twiggy_Facing Viewer.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Falling.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Falling.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/2465d8d8e87d56d2e83c1e11ed0653a695bd1487a5cce3bdae6d9f5060f68ea3_Twiggy_Falling.png",
+          "name": "Twiggy_Falling.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Hurt & Recovery_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Hurt & Recovery_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/7c1d3270b264efe45134f1a7573e8a94334d5b054d109e023c9c2c69644d8e50_Twiggy_Hurt & Recovery_1.png",
+          "name": "Twiggy_Hurt & Recovery_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Hurt & Recovery_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Hurt & Recovery_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/1047c5941e53ff57f211569f6fdfbd02616f37b1fc57a21b0914de0e439417a4_Twiggy_Hurt & Recovery_2.png",
+          "name": "Twiggy_Hurt & Recovery_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Hurt & Recovery_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Hurt & Recovery_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/4449b78463085f7fe25e11f9e5fdf9372198e8e07096a48174bc5337ed3c125d_Twiggy_Hurt & Recovery_3.png",
+          "name": "Twiggy_Hurt & Recovery_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/61140c91d3d46774491b7e98d6262e1c15b9cb73cd7c646175829b619676a558_Twiggy_Idle_1.png",
+          "name": "Twiggy_Idle_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/c1b4fa7f59ce4b50b79845d2bfd30e44a59e4e4b2152b112037aa615a3082614_Twiggy_Idle_2.png",
+          "name": "Twiggy_Idle_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/1e21c5602ed064c29ed9c34530acf6229ae3d0f604550f8210c3d08dd78e702f_Twiggy_Idle_3.png",
+          "name": "Twiggy_Idle_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/1567eb50f0f0df004661986600f333e573728aff31ac96690f555368b29b45d9_Twiggy_Idle_4.png",
+          "name": "Twiggy_Idle_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Idle_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/b90c5fbf217bc27a3723bfb461cbc020ab38f057f7283ea166f707fad6db77d4_Twiggy_Idle_5.png",
+          "name": "Twiggy_Idle_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Jumping.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Jumping.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/dc42c289a802e76604abf38919980d79e1cb1cc19eef421561b321ff6d24e0c7_Twiggy_Jumping.png",
+          "name": "Twiggy_Jumping.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Looking Upward.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Looking Upward.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/fb98453ef22c9da158ccf2f52d2e04b3281b41647820a414b9a8837239bf6ebf_Twiggy_Looking Upward.png",
+          "name": "Twiggy_Looking Upward.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Running_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Running_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/6203f10e77e6f94fad1d1aa8d0923478ee0621caab2ba4ead54312815ba9d5da_Twiggy_Running_1.png",
+          "name": "Twiggy_Running_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Running_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Running_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/e5f980f79704cebb5e99ecba93469d5236d2bc6c086124a1b05edd9bbdcfbfff_Twiggy_Running_2.png",
+          "name": "Twiggy_Running_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Running_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Running_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/9e784fb1a03ab48cffb934a7b7a4326bcbb620889ef89c475f1736d9c920efc4_Twiggy_Running_3.png",
+          "name": "Twiggy_Running_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Running_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Running_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/d3c6811f2db071ed7f561243db0875c8967ba25f79918e291db8e2018690f233_Twiggy_Running_4.png",
+          "name": "Twiggy_Running_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Running_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Running_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/3f3a1319adadbe979896b477a36bba19191bd18835a368a5738134642e28f545_Twiggy_Running_5.png",
+          "name": "Twiggy_Running_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Running_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Running_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/9726c6451176bb5fa420737a2be01d4e5ae65ded653478a5be49277a58912252_Twiggy_Running_6.png",
+          "name": "Twiggy_Running_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Sleeping.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Sleeping.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/d5b5f85af36a8b12aa49761e1880dbc04d930b666a94da8135bf18b0148652ac_Twiggy_Sleeping.png",
+          "name": "Twiggy_Sleeping.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Slide Turn Around.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Slide Turn Around.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/487099a5b8e9a4708bc2e6124b55d58d86aaab82795003314679d98b0cf0310d_Twiggy_Slide Turn Around.png",
+          "name": "Twiggy_Slide Turn Around.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Touch Ground_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Touch Ground_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/c3d51b9a272b52cbd1df962ffdff07e44df442dcf035d46714977f5a1fb518fc_Twiggy_Touch Ground_1.png",
+          "name": "Twiggy_Touch Ground_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Touch Ground_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Touch Ground_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/4bf5cb1195a10c914c17954c7f2b8f42b280f24a62b9289fbcd4900805a3457c_Twiggy_Touch Ground_2.png",
+          "name": "Twiggy_Touch Ground_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Victory Pose.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Victory Pose.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/250c356039a9f044ad0687eb1015d18b1ac3a973c1e2443fc43baff0e56d6fda_Twiggy_Victory Pose.png",
+          "name": "Twiggy_Victory Pose.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Wakeup_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Wakeup_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/d5b5f85af36a8b12aa49761e1880dbc04d930b666a94da8135bf18b0148652ac_Twiggy_Wakeup_1.png",
+          "name": "Twiggy_Wakeup_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Wakeup_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Wakeup_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/8233cab666531790ee802c61fc48347283f0bea1324b867398b9747aee71cd4a_Twiggy_Wakeup_2.png",
+          "name": "Twiggy_Wakeup_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Twiggy_Wakeup_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Twiggy_Wakeup_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Twiggy/c48bef7a9b2c27adaa4d3fa8b95e833f060a5ceb9cee91efb08d3624531c515c_Twiggy_Wakeup_3.png",
+          "name": "Twiggy_Wakeup_3.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -992,7 +1854,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.19252895134445855,
+        "zoomFactor": 1.0800778004377425,
         "windowMask": false
       },
       "objectsGroups": [
@@ -1035,12 +1897,6 @@
             },
             {
               "name": "EndScreenSubHeader"
-            },
-            {
-              "name": "EndScreenBestText"
-            },
-            {
-              "name": "EndScreenChallengeText"
             },
             {
               "name": "EndScreenRetryText"
@@ -1090,36 +1946,6 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "height": 95.86380004882812,
-          "layer": "",
-          "name": "Player",
-          "persistentUuid": "531d1c3f-aae2-413f-ba87-81f0b6673f1b",
-          "width": 72.77617645263672,
-          "x": -828,
-          "y": 161,
-          "zOrder": 6,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 227,
-          "layer": "",
-          "name": "Ladder",
-          "persistentUuid": "5e31f97d-bdfa-44ce-b525-f6bb1b99bdb5",
-          "width": 67.35904693603516,
-          "x": 549,
-          "y": 179,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 265.3482971191406,
           "layer": "",
@@ -1129,21 +1955,6 @@
           "x": 1816,
           "y": 288,
           "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 78,
-          "layer": "",
-          "name": "Clouds",
-          "persistentUuid": "7a4f19b7-6962-4686-9bfa-69dd5158902c",
-          "width": 2269,
-          "x": 0,
-          "y": 472,
-          "zOrder": 36,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1196,21 +2007,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 155,
-          "layer": "Background",
-          "name": "Moon",
-          "persistentUuid": "d69158af-6294-402d-b60b-65dd19e09e59",
-          "width": 156.37167358398438,
-          "x": 737.6282958984375,
-          "y": -64,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 540,
           "layer": "EndScreen",
           "name": "EndScreenBackground",
@@ -1255,21 +2051,6 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "height": 21,
-          "layer": "",
-          "name": "BoundaryJumpThrough",
-          "persistentUuid": "7483dc27-84ed-436f-9611-ea3d03ec6df8",
-          "width": 77,
-          "x": 545,
-          "y": 178,
-          "zOrder": 51,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 97.86228942871094,
           "layer": "",
@@ -1306,8 +2087,8 @@
           "name": "Platform1",
           "persistentUuid": "e05f88cc-8c5c-42d6-8ebd-a02a3a933517",
           "width": 269.3721008300781,
-          "x": -901,
-          "y": 280,
+          "x": -925,
+          "y": 333,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -1376,52 +2157,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 0,
-          "height": 622,
-          "layer": "Background",
-          "name": "BackgroundPlants",
-          "persistentUuid": "03b6869d-198f-4807-b659-f2b863e21073",
-          "width": 3830,
-          "x": -977,
-          "y": -25,
-          "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 48,
-          "layer": "EndScreen",
-          "name": "EndScreenChallengeText",
-          "persistentUuid": "35a4ffe7-bc41-49f0-a38b-ec169463f92f",
-          "width": 960,
-          "x": 0,
-          "y": 302,
-          "zOrder": 53,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 48,
-          "layer": "EndScreen",
-          "name": "EndScreenBestText",
-          "persistentUuid": "577f8640-7272-417e-9b19-926a4fab6f5a",
-          "width": 960,
-          "x": 0,
-          "y": 302,
-          "zOrder": 54,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 928,
           "layer": "",
           "name": "RightBoundary",
@@ -1442,7 +2177,7 @@
           "layer": "",
           "name": "TopBoundary",
           "persistentUuid": "4381c067-2682-4f00-9a24-ff28fa12b1d8",
-          "width": 3802,
+          "width": 3828,
           "x": -976,
           "y": -253,
           "zOrder": 59,
@@ -1522,6 +2257,54 @@
           "x": 2262,
           "y": 19,
           "zOrder": 62,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 742,
+          "layer": "Background",
+          "name": "background",
+          "persistentUuid": "0a2c46ae-33e4-4c65-ac94-58c2f3b1ca40",
+          "width": 3821,
+          "x": -976,
+          "y": -172,
+          "zOrder": 65,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 269,
+          "layer": "Background",
+          "name": "tree",
+          "persistentUuid": "92a47fd8-d5ff-4e47-842d-822feb56f161",
+          "width": 157,
+          "x": 183,
+          "y": 243,
+          "zOrder": 66,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 123,
+          "layer": "",
+          "name": "Twiggy",
+          "persistentUuid": "f8409bf2-436f-454a-9dc4-303f96ce6614",
+          "width": 123,
+          "x": -851,
+          "y": 222,
+          "zOrder": 68,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1659,7 +2442,7 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": true,
+                      "hasCustomCollisionMask": false,
                       "image": "assets\\Red hero_Idle_1.png",
                       "points": [],
                       "originPoint": {
@@ -1673,29 +2456,10 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 20.5,
-                            "y": 22
-                          },
-                          {
-                            "x": 124.5,
-                            "y": 22
-                          },
-                          {
-                            "x": 124.5,
-                            "y": 182
-                          },
-                          {
-                            "x": 20.5,
-                            "y": 182
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
+                      "hasCustomCollisionMask": false,
                       "image": "assets\\Red hero_Idle_2.png",
                       "points": [],
                       "originPoint": {
@@ -1709,29 +2473,10 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 20.5,
-                            "y": 22
-                          },
-                          {
-                            "x": 124.5,
-                            "y": 22
-                          },
-                          {
-                            "x": 124.5,
-                            "y": 182
-                          },
-                          {
-                            "x": 20.5,
-                            "y": 182
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
+                      "hasCustomCollisionMask": false,
                       "image": "assets\\Red hero_Idle_3.png",
                       "points": [],
                       "originPoint": {
@@ -1745,62 +2490,7 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 20.5,
-                            "y": 22
-                          },
-                          {
-                            "x": 124.5,
-                            "y": 22
-                          },
-                          {
-                            "x": 124.5,
-                            "y": 182
-                          },
-                          {
-                            "x": 20.5,
-                            "y": 182
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Red hero_Idle_4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 20.5,
-                            "y": 22
-                          },
-                          {
-                            "x": 124.5,
-                            "y": 22
-                          },
-                          {
-                            "x": 124.5,
-                            "y": 182
-                          },
-                          {
-                            "x": 20.5,
-                            "y": 182
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -3662,1185 +4352,6 @@
         },
         {
           "assetStoreId": "",
-          "name": "Monster",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [
-            {
-              "name": "Fire",
-              "type": "boolean",
-              "value": false
-            }
-          ],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "MonsterEnemy",
-              "type": "Enemy::MonsterEnemy"
-            }
-          ],
-          "animations": [
-            {
-              "name": "NoFire",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.5,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Monster_Idle_1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 26,
-                            "y": 40
-                          },
-                          {
-                            "x": 64,
-                            "y": 40
-                          },
-                          {
-                            "x": 72,
-                            "y": 116
-                          },
-                          {
-                            "x": 16,
-                            "y": 116
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Monster_Idle_2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 26,
-                            "y": 40
-                          },
-                          {
-                            "x": 64,
-                            "y": 40
-                          },
-                          {
-                            "x": 72,
-                            "y": 116
-                          },
-                          {
-                            "x": 16,
-                            "y": 116
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Fire",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.10000000149011612,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Monster_Fire_1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 26,
-                            "y": 40
-                          },
-                          {
-                            "x": 64,
-                            "y": 40
-                          },
-                          {
-                            "x": 72,
-                            "y": 116
-                          },
-                          {
-                            "x": 16,
-                            "y": 116
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Monster_Fire_2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 26,
-                            "y": 40
-                          },
-                          {
-                            "x": 64,
-                            "y": 40
-                          },
-                          {
-                            "x": 72,
-                            "y": 116
-                          },
-                          {
-                            "x": 16,
-                            "y": 116
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Monster_Fire_3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 26,
-                            "y": 40
-                          },
-                          {
-                            "x": 64,
-                            "y": 40
-                          },
-                          {
-                            "x": 72,
-                            "y": 116
-                          },
-                          {
-                            "x": 16,
-                            "y": 116
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Monster_Fire_4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 26,
-                            "y": 40
-                          },
-                          {
-                            "x": 64,
-                            "y": 40
-                          },
-                          {
-                            "x": 72,
-                            "y": 116
-                          },
-                          {
-                            "x": 16,
-                            "y": 116
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Monster_Fire_5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 26,
-                            "y": 40
-                          },
-                          {
-                            "x": 64,
-                            "y": 40
-                          },
-                          {
-                            "x": 72,
-                            "y": 116
-                          },
-                          {
-                            "x": 16,
-                            "y": 116
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Monster_Fire_6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 26,
-                            "y": 40
-                          },
-                          {
-                            "x": 64,
-                            "y": 40
-                          },
-                          {
-                            "x": 72,
-                            "y": 116
-                          },
-                          {
-                            "x": 16,
-                            "y": 116
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Monster_Fire_7.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 26,
-                            "y": 40
-                          },
-                          {
-                            "x": 64,
-                            "y": 40
-                          },
-                          {
-                            "x": 72,
-                            "y": 116
-                          },
-                          {
-                            "x": 16,
-                            "y": 116
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Monster_Fire_8.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 26,
-                            "y": 40
-                          },
-                          {
-                            "x": 64,
-                            "y": 40
-                          },
-                          {
-                            "x": 72,
-                            "y": 116
-                          },
-                          {
-                            "x": 16,
-                            "y": 116
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Monster_Fire_9.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 26,
-                            "y": 40
-                          },
-                          {
-                            "x": 64,
-                            "y": 40
-                          },
-                          {
-                            "x": 72,
-                            "y": 116
-                          },
-                          {
-                            "x": 16,
-                            "y": 116
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Monster_Fire_10.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 26,
-                            "y": 40
-                          },
-                          {
-                            "x": 64,
-                            "y": 40
-                          },
-                          {
-                            "x": 72,
-                            "y": 116
-                          },
-                          {
-                            "x": 16,
-                            "y": 116
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "Fly",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [
-            {
-              "name": "dead",
-              "type": "boolean",
-              "value": false
-            }
-          ],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "RectangleMovement",
-              "type": "RectangleMovement::RectangleMovement",
-              "Width": 0,
-              "Height": 50,
-              "Clockwise": true,
-              "HorizontalEdgeDuration": 0,
-              "VerticalEdgeDuration": 1.35,
-              "Left": 1,
-              "Top": 1,
-              "Progress": 1,
-              "OldX": 1,
-              "OldY": 1,
-              "Easing": "easeInOutSine",
-              "InitialPosition": "Bottom-left corner",
-              "ToogleClockwise": false
-            },
-            {
-              "name": "ShakeObject_PositionAngle",
-              "type": "ShakeObject::ShakeObject_PositionAngle"
-            }
-          ],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.06499999761581421,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Fly_1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 28,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 72
-                          },
-                          {
-                            "x": 28,
-                            "y": 72
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Fly_2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 28,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 72
-                          },
-                          {
-                            "x": 28,
-                            "y": 72
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Fly_3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 28,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 72
-                          },
-                          {
-                            "x": 28,
-                            "y": 72
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Fly_4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 28,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 72
-                          },
-                          {
-                            "x": 28,
-                            "y": 72
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Fly_5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 28,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 72
-                          },
-                          {
-                            "x": 28,
-                            "y": 72
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Fly_6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 28,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 72
-                          },
-                          {
-                            "x": 28,
-                            "y": 72
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Fly_7.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 28,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 72
-                          },
-                          {
-                            "x": 28,
-                            "y": 72
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Fly_8.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 28,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 72
-                          },
-                          {
-                            "x": 28,
-                            "y": 72
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Fly_9.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 28,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 72
-                          },
-                          {
-                            "x": 28,
-                            "y": 72
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Fly_10.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 28,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 72
-                          },
-                          {
-                            "x": 28,
-                            "y": 72
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Fly_9.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 28,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 72
-                          },
-                          {
-                            "x": 28,
-                            "y": 72
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Fly_8.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 28,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 72
-                          },
-                          {
-                            "x": 28,
-                            "y": 72
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Fly_7.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 28,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 72
-                          },
-                          {
-                            "x": 28,
-                            "y": 72
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Fly_6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 28,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 72
-                          },
-                          {
-                            "x": 28,
-                            "y": 72
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Fly_5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 28,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 72
-                          },
-                          {
-                            "x": 28,
-                            "y": 72
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Fly_4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 28,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 72
-                          },
-                          {
-                            "x": 28,
-                            "y": 72
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Fly_3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 28,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 72
-                          },
-                          {
-                            "x": 28,
-                            "y": 72
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Fly_2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 28,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 28
-                          },
-                          {
-                            "x": 88,
-                            "y": 72
-                          },
-                          {
-                            "x": 28,
-                            "y": 72
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
           "name": "Coin",
           "tags": "",
           "type": "Sprite",
@@ -5341,47 +4852,6 @@
         },
         {
           "assetStoreId": "",
-          "name": "Moon",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Moon.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
           "height": 32,
           "name": "EndScreenBackground",
           "tags": "",
@@ -5427,50 +4897,6 @@
           "effects": [],
           "behaviors": [],
           "string": "You got 100 points!",
-          "font": "PTSans-Bold.ttf",
-          "textAlignment": "center",
-          "characterSize": 40,
-          "color": {
-            "b": 255,
-            "g": 255,
-            "r": 255
-          }
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": true,
-          "name": "EndScreenBestText",
-          "smoothed": true,
-          "tags": "",
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "You got the highest number of points!",
-          "font": "PTSans-Bold.ttf",
-          "textAlignment": "center",
-          "characterSize": 40,
-          "color": {
-            "b": 255,
-            "g": 255,
-            "r": 255
-          }
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": true,
-          "name": "EndScreenChallengeText",
-          "smoothed": true,
-          "tags": "",
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "Can you get 950 points?",
           "font": "PTSans-Bold.ttf",
           "textAlignment": "center",
           "characterSize": 40,
@@ -5745,6 +5171,2614 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "c8477c4c99a18c86dfbf24b5dc7a4d27e42ea61e1d79bdd271db666f617cea9a",
+          "name": "Kid1",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Idle Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Idle Down_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Idle Down_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Idle Down_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Idle Down_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Idle Left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Idle Left_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Idle Left_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Idle Left_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Idle Left_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Idle Right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Idle Right_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Idle Right_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Idle Right_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Idle Right_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Idle Up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Idle Up_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Idle Up_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Idle Up_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Idle Up_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walk Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Walk Down_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Walk Down_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Walk Down_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Walk Down_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walk Left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Walk Left_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Walk Left_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Walk Left_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Walk Left_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walk Right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Walk Right_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Walk Right_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Walk Right_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Walk Right_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walk Up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Walk Up_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Walk Up_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Walk Up_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 1_Walk Up_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Background_test",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tiled_Grass and Tree Background.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "background",
+          "tags": "",
+          "texture": "tiled_Grass and Tree Background2.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "name": "tree",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Big green tree 1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big green tree 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "bdb95cd5855d855897462def67b8d0fec65c8d33fe51864812c9f5adfcc26db3",
+          "name": "Twiggy",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "folded": true,
+              "name": "dead",
+              "type": "boolean",
+              "value": false
+            }
+          ],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "PlatformerCharacterAnimator",
+              "type": "PlatformerCharacterAnimator::PlatformerCharacterAnimator",
+              "EnableAnimationChanges": true,
+              "EnableHorizontalFlipping": true,
+              "IdleAnimationName": "Idle",
+              "MoveAnimationName": "Move",
+              "JumpAnimationName": "Jump",
+              "FallAnimationName": "Fall",
+              "ClimbAnimationName": "Climb",
+              "PlatformerBehavior": "PlatformerObject",
+              "RunAnimationName": "Running"
+            },
+            {
+              "name": "PlatformerGamepadMapper",
+              "type": "Gamepads::PlatformerGamepadMapper",
+              "PlatformerCharacter": "PlatformerObject",
+              "GamepadIdentifier": 1,
+              "UseArrows": true,
+              "UseLeftStick": true,
+              "UseRightStick": false,
+              "JumpButton": "A or Cross"
+            },
+            {
+              "name": "PlatformerMultitouchMapper",
+              "type": "SpriteMultitouchJoystick::PlatformerMultitouchMapper",
+              "Property": "PlatformerObject",
+              "ControllerIdentifier": 1,
+              "JoystickIdentifier": "Primary",
+              "JumpButton": "A"
+            },
+            {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "canGoDownFromJumpthru": true,
+              "acceleration": 1125,
+              "deceleration": 1125,
+              "gravity": 1000,
+              "jumpSpeed": 650,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 300,
+              "maxFallingSpeed": 500,
+              "maxSpeed": 200,
+              "canGrabPlatforms": false,
+              "ignoreDefaultControls": false,
+              "slopeMaxAngle": 60,
+              "useLegacyTrajectory": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            },
+            {
+              "name": "SmoothCamera",
+              "type": "SmoothCamera::SmoothCamera",
+              "LeftwardSpeed": 0.9,
+              "RightwardSpeed": 0.9,
+              "UpwardSpeed": 0.7,
+              "DownwardSpeed": 0.7,
+              "FollowOnX": true,
+              "FollowOnY": true,
+              "FollowFreeAreaLeft": 0,
+              "FollowFreeAreaRight": 0,
+              "FollowFreeAreaTop": 0,
+              "FollowFreeAreaBottom": 0,
+              "CameraOffsetX": 0,
+              "CameraOffsetY": 0,
+              "CameraDelay": 0,
+              "ForecastTime": 0,
+              "ForecastHistoryDuration": 0,
+              "LogLeftwardSpeed": 0,
+              "LogRightwardSpeed": 0,
+              "LogDownwardSpeed": 0,
+              "LogUpwardSpeed": 0,
+              "DelayedCenterX": 0,
+              "DelayedCenterY": 0,
+              "ForecastHistoryMeanX": 0,
+              "ForecastHistoryMeanY": 0,
+              "ForecastHistoryVarianceX": 0,
+              "ForecastHistoryCovariance": 0,
+              "ForecastHistoryLinearA": 0,
+              "ForecastHistoryLinearB": 0,
+              "ForecastedX": 0,
+              "ForecastedY": 0,
+              "ProjectedNewestX": 0,
+              "ProjectedNewestY": 0,
+              "ProjectedOldestX": 0,
+              "ProjectedOldestY": 0,
+              "ForecastHistoryVarianceY": 0,
+              "Index": 0,
+              "CameraDelayCatchUpSpeed": 0,
+              "CameraExtraDelay": 0,
+              "WaitingSpeedXMax": 0,
+              "WaitingSpeedYMax": 0,
+              "WaitingEnd": 0,
+              "CameraDelayCatchUpDuration": 0,
+              "LeftwardSpeedMax": 9000,
+              "RightwardSpeedMax": 9000,
+              "UpwardSpeedMax": 9000,
+              "DownwardSpeedMax": 9000,
+              "OldX": 0,
+              "OldY": 0
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "Idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Idle_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Idle_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Idle_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Idle_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Idle_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Back Turned",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Back Turned.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Facing Viewer",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Facing Viewer.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Falling",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Falling.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Hurt & Recovery",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.3333,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Hurt & Recovery_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Hurt & Recovery_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Hurt & Recovery_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Jumping",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Jumping.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Looking Upward",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Looking Upward.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Running",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1667,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Running_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Running_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Running_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Running_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Running_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Running_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sleeping",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Sleeping.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Slide Turn Around",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Slide Turn Around.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Touch Ground",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.5,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Touch Ground_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Touch Ground_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Victory Pose",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Victory Pose.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Wakeup",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.3333,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Wakeup_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Wakeup_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Twiggy_Wakeup_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -5780,124 +7814,6 @@
                 "textR": 0
               },
               "comment": "Note: Keyboard controls are provided by the Platformer behavior automatically"
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "name": "Mobile Touchscreen Controls",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "SystemInfo::HasTouchScreen"
-                      },
-                      "parameters": [
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "SpriteMultitouchJoystick::MultitouchButton::IsPressed"
-                          },
-                          "parameters": [
-                            "JumpButton",
-                            "MultitouchButton",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::Once"
-                          },
-                          "parameters": []
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "ChangeColor"
-                          },
-                          "parameters": [
-                            "JumpButton",
-                            "\"74;74;74\""
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "SpriteMultitouchJoystick::MultitouchButton::IsPressed"
-                          },
-                          "parameters": [
-                            "JumpButton",
-                            "MultitouchButton",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::Once"
-                          },
-                          "parameters": []
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "ChangeColor"
-                          },
-                          "parameters": [
-                            "JumpButton",
-                            "\"255;255;255\""
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "SystemInfo::HasTouchScreen"
-                      },
-                      "parameters": [
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "MobileControls",
-                        ""
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
             }
           ],
           "parameters": []
@@ -5928,7 +7844,7 @@
                         "value": "PlatformBehavior::IsJumping"
                       },
                       "parameters": [
-                        "Player",
+                        "Twiggy",
                         "PlatformerObject"
                       ]
                     },
@@ -5946,7 +7862,7 @@
                       },
                       "parameters": [
                         "",
-                        "jump.mp3",
+                        "jump_01.wav",
                         "",
                         "50",
                         ""
@@ -5963,7 +7879,7 @@
                       },
                       "parameters": [
                         "",
-                        "Player",
+                        "Twiggy",
                         "PlatformerObject",
                         ""
                       ]
@@ -6066,7 +7982,7 @@
                       },
                       "parameters": [
                         "",
-                        "Player",
+                        "Twiggy",
                         "Player.X()",
                         "Player.Y()",
                         "\"Checkpoint\"",
@@ -6095,7 +8011,7 @@
                         "value": "CollisionNP"
                       },
                       "parameters": [
-                        "Player",
+                        "Twiggy",
                         "Checkpoint",
                         "",
                         "",
@@ -6187,7 +8103,7 @@
                           },
                           "parameters": [
                             "",
-                            "Player",
+                            "Twiggy",
                             "Checkpoint.X()",
                             "Checkpoint.Y()",
                             "\"Checkpoint\"",
@@ -6227,7 +8143,7 @@
                         "value": "CollisionNP"
                       },
                       "parameters": [
-                        "Player",
+                        "Twiggy",
                         "Coin",
                         "",
                         "",
@@ -6313,7 +8229,7 @@
                         "value": "PosY"
                       },
                       "parameters": [
-                        "Player",
+                        "Twiggy",
                         ">",
                         "CameraBorderBottom(\"\")"
                       ]
@@ -6326,7 +8242,7 @@
                       },
                       "parameters": [
                         "",
-                        "Player",
+                        "Twiggy",
                         ""
                       ]
                     }
@@ -6405,7 +8321,7 @@
                             "value": "PlatformBehavior::IsFalling"
                           },
                           "parameters": [
-                            "Player",
+                            "Twiggy",
                             "PlatformerObject"
                           ]
                         }
@@ -6417,7 +8333,7 @@
                           },
                           "parameters": [
                             "",
-                            "Fly",
+                            "Twiggy",
                             "RectangleMovement",
                             "ShakeObject_PositionAngle",
                             ""
@@ -6455,7 +8371,7 @@
                             "value": "PlatformBehavior::IsFalling"
                           },
                           "parameters": [
-                            "Player",
+                            "Twiggy",
                             "PlatformerObject"
                           ]
                         }
@@ -6467,7 +8383,7 @@
                           },
                           "parameters": [
                             "",
-                            "Player",
+                            "Twiggy",
                             ""
                           ]
                         }
@@ -6600,7 +8516,7 @@
                           },
                           "parameters": [
                             "",
-                            "Player",
+                            "Twiggy",
                             ""
                           ]
                         }
@@ -6664,7 +8580,7 @@
                               },
                               "parameters": [
                                 "",
-                                "Player",
+                                "Twiggy",
                                 "PlatformerObject",
                                 ""
                               ]
@@ -6702,7 +8618,7 @@
                               },
                               "parameters": [
                                 "",
-                                "Player",
+                                "Twiggy",
                                 ""
                               ]
                             }
@@ -6793,7 +8709,7 @@
                     "value": "CollisionNP"
                   },
                   "parameters": [
-                    "Player",
+                    "Twiggy",
                     "Portal",
                     "",
                     "",
@@ -6849,7 +8765,7 @@
                             "value": "ActivateBehavior"
                           },
                           "parameters": [
-                            "Player",
+                            "Twiggy",
                             "PlatformerObject",
                             "no"
                           ]
@@ -6860,7 +8776,7 @@
                           },
                           "parameters": [
                             "",
-                            "Player",
+                            "Twiggy",
                             "Tween",
                             "Portal",
                             "Portal"
@@ -6932,57 +8848,7 @@
                               "parameters": [
                                 "EndScreenSubHeader",
                                 "=",
-                                "\"You got \" + VariableString(Score) + \" points!\""
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [
-                            {
-                              "type": {
-                                "value": "VarScene"
-                              },
-                              "parameters": [
-                                "Score",
-                                "<",
-                                "950"
-                              ]
-                            }
-                          ],
-                          "actions": [
-                            {
-                              "type": {
-                                "value": "Cache"
-                              },
-                              "parameters": [
-                                "EndScreenBestText"
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [
-                            {
-                              "type": {
-                                "value": "VarScene"
-                              },
-                              "parameters": [
-                                "Score",
-                                ">=",
-                                "950"
-                              ]
-                            }
-                          ],
-                          "actions": [
-                            {
-                              "type": {
-                                "value": "Cache"
-                              },
-                              "parameters": [
-                                "EndScreenChallengeText"
+                                "\"This is the end of the demo\""
                               ]
                             }
                           ]
@@ -7182,9 +9048,9 @@
                       },
                       "parameters": [
                         "",
-                        "crickets.aac",
+                        "Mushroom Theme.mp3",
                         "yes",
-                        "30",
+                        "15",
                         "1"
                       ]
                     }
@@ -7351,7 +9217,7 @@
                         "0",
                         "\"Sound\"",
                         "Portal",
-                        "Player",
+                        "Twiggy",
                         "0",
                         "20",
                         "750",
@@ -7448,10 +9314,6 @@
         {
           "name": "Anchor",
           "type": "AnchorBehavior::AnchorBehavior"
-        },
-        {
-          "name": "MonsterEnemy",
-          "type": "Enemy::MonsterEnemy"
         },
         {
           "name": "MultitouchButton",
