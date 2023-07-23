@@ -1854,7 +1854,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.0800778004377425,
+        "zoomFactor": 0.28663732116506185,
         "windowMask": false
       },
       "objectsGroups": [
@@ -2194,8 +2194,8 @@
           "name": "BottomBoundary",
           "persistentUuid": "00f86cf3-18b0-4d71-9ce8-952dfc4e6b5c",
           "width": 3840,
-          "x": -976,
-          "y": 599,
+          "x": -971,
+          "y": 572,
           "zOrder": 60,
           "numberProperties": [],
           "stringProperties": [],
